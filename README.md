@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AlaGio/AlaGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖖 Hey, I’m @AlaGio  
+🔍 Into ML 🤖, Python 🐍 & Rust 🦀  
+💻 Past: Java ☕ & C ⚡  
+🚀 Improving Python & Rust  
+💼 Focused on Finance 💹 & Biotech 🧬  
+🛠️ Enjoy building my own projects to solve interesting problems  
+💡 Fun fact: ML prototypes & Rust experiments  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F61?style=flat&logo=keras&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
